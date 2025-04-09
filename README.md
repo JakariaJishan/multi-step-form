@@ -41,8 +41,8 @@ A fully functional multi-step form built with the latest **Next.js App Router**,
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/JakariaJishan/multi-step-form.git
+   cd multi-step-form
 
 2. Install dependencies:
 
